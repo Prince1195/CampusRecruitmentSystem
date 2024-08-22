@@ -42,7 +42,7 @@
       <div class="container-fluid">
 
         <div class="navbar-header">
-          <a class="navbar-brand" style="font-size: 24px; color: #053a5a; line-height: 42px;" href="index.php">JobDeck.com</a>
+          <a class="navbar-brand" style="font-size: 24px; color: #053a5a; line-height: 42px;" href="index.php">Campus Rrecruitment System</a>
         </div>
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">     

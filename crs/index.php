@@ -63,7 +63,7 @@ require_once("db.php");
       <div class="container-fluid">
 
         <div class="navbar-header">
-          <a class="navbar-brand" style="font-size: 24px; color: #053a5a; line-height: 42px;" href="index.php">JobDeck.com</a>
+          <a class="navbar-brand" style="font-size: 24px; color: #053a5a; line-height: 42px;" href="index.php">Campus Rrecruitment System</a>
         </div>
 
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">     
@@ -229,14 +229,14 @@ require_once("db.php");
   <footer id="footer" style="background-color: #053a5a; height: 80px;">
 
     <p style="color:white; font-size: 20px; line-height: 80px; text-align: center;"> 
-      Copyright &copy; 2018-2019 <a href="index.php" style="color:white;">JobDeck.com </a>
+      Copyright &copy; 2018-2019 <a href="index.php" style="color:white;">Campus Rrecruitment System </a>
     </p>
 
-    <div align="center" style="background-color: #053a5a; margin-top: -1.4%; height: 55px;">
+    <!-- <div align="center" style="background-color: #053a5a; margin-top: -1.4%; height: 55px;">
       <a href="https://www.facebook.com/TataConsultancyServices" target="_blank"><img src="img/facebook.png" style="width: 30px; height: 30px; margin-left: 5px; margin-right: 5px;" /></a>
       <a href="https://www.twitter.com/tcs" target="_blank"><img src="img/twitter.png" style="width: 30px; height: 30px; margin-left: 5px; margin-right: 5px;" /></a>
       <a href="https://www.youtube.com/channel/UCaHyiyvJp4hhPNhIU7r9uqg" target="_blank"><img src="img/youtube.png" style="width: 30px; height: 30px; margin-left: 5px; margin-right: 5px;" /></a>
-    </div>
+    </div> -->
 
   </footer>
 
